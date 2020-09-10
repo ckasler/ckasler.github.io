@@ -1129,14 +1129,15 @@
       <links>
         <slidelink slideid="5bA3neMdl6X.256" displaytext="Freshman Admission Overview" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.266" displaytext="Agenda" expand="true" type="slide" />
+        <slidelink slideid="5bA3neMdl6X.337" displaytext="2 Types of Freshman Applicants" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.291" displaytext="2 Types of Freshman Applicants" expand="true" type="slide" />
-        <slidelink slideid="_player.6f2e9QwYWfc4.6Rrm5GxUd8E" displaytext="Application Requirements" expand="false" type="slide">
+        <slidelink slideid="_player.6f2e9QwYWfc5.6Rrm5GxUd8E" displaytext="Application Requirements" expand="false" type="slide">
           <links>
-            <slidelink slideid="6f2e9QwYWfc4.6Rrm5GxUd8E.63y7nHOyFAU" displaytext="Freshman Admissions Application Requirements" expand="false" type="action" />
-            <slidelink slideid="6f2e9QwYWfc4.6Rrm5GxUd8E.66yhy4cg4uH" displaytext="Common Application" expand="false" type="action" />
-            <slidelink slideid="6f2e9QwYWfc4.6Rrm5GxUd8E.6HkYqZbJRz2" displaytext="Official High School transcript with senior schedule" expand="false" type="action" />
-            <slidelink slideid="6f2e9QwYWfc4.6Rrm5GxUd8E.5iSpfscLvy6" displaytext="Application Fee or Fee Waiver" expand="false" type="action" />
-            <slidelink slideid="6f2e9QwYWfc4.6Rrm5GxUd8E.5gZP2KOEHt0" displaytext="Optional - Official ACT or SAT scores. " expand="false" type="action" />
+            <slidelink slideid="6f2e9QwYWfc5.6Rrm5GxUd8E.63y7nHOyFAU" displaytext="Freshman Admissions Application Requirements" expand="false" type="action" />
+            <slidelink slideid="6f2e9QwYWfc5.6Rrm5GxUd8E.66yhy4cg4uH" displaytext="Common Application" expand="false" type="action" />
+            <slidelink slideid="6f2e9QwYWfc5.6Rrm5GxUd8E.6HkYqZbJRz2" displaytext="Official High School transcript with senior schedule" expand="false" type="action" />
+            <slidelink slideid="6f2e9QwYWfc5.6Rrm5GxUd8E.5iSpfscLvy6" displaytext="Application Fee or Fee Waiver" expand="false" type="action" />
+            <slidelink slideid="6f2e9QwYWfc5.6Rrm5GxUd8E.5gZP2KOEHt0" displaytext="Optional - Official ACT or SAT scores. " expand="false" type="action" />
           </links>
         </slidelink>
         <slidelink slideid="5bA3neMdl6X.268" displaytext="Submitting Documents" expand="true" type="slide" />
@@ -1172,12 +1173,13 @@
         <slidelink slideid="5bA3neMdl6X.290" displaytext="Regional Freshman – Application Deadline" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.289" displaytext="Regional Decisions" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.295" displaytext="Homeschool and Military/Veteran Students" expand="true" type="slide" />
+        <slidelink slideid="5bA3neMdl6X.336" displaytext="Practice" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="presentation_content/external_files/Freshman Admissions Worksheet.pdf" image="presentation_content/5vPFkKDwGve.png" title="Freshman Admissions Worksheet" />
+      <resource url="presentation_content/external_files/Freshman Admissions Worksheet.pdf" image="presentation_content/5eEEDWVftd0.png" title="Freshman Admissions Worksheet" />
     </resources>
   </resource_data>
   <transcript_data />
