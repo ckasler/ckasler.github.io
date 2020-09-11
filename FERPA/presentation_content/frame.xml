@@ -1260,51 +1260,51 @@
   <string_tables>
     <string_table name="pxabnsnfns10111100100">
       <string id="acc_active">active</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_in">Search in:</string>
-      <string id="acc_search_input">search</string>
-      <string id="search">Search...</string>
-      <string id="restart">Restart</string>
-      <string id="acc_resources">resources</string>
-      <string id="resources">Resources</string>
-      <string id="acc_replay">replay</string>
-      <string id="question_list">Question List</string>
-      <string id="resume">Resume</string>
-      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
-      <string id="acc_volume">volume</string>
-      <string id="acc_submit">submit</string>
-      <string id="submit">SUBMIT</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="acc_previous">previous</string>
-      <string id="prev">PREV</string>
-      <string id="closed_captions">Captions</string>
-      <string id="terms">Terms</string>
-      <string id="glossary">Glossary</string>
-      <string id="acc_definition">definition</string>
-      <string id="definition">Definition</string>
-      <string id="acc_finish">finish</string>
-      <string id="finish">FINISH</string>
-      <string id="filter">Filter</string>
-      <string id="exit">Exit</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="continue">Continue</string>
-      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
-      <string id="close">Close</string>
-      <string id="clear">Clear and return to menu</string>
       <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
       <string id="transcript">Notes</string>
       <string id="bio">Bio</string>
       <string id="more_info">More info</string>
-      <string id="send_an_email">Send an email</string>
+      <string id="closed_captions">Captions</string>
       <string id="acc_pause">pause</string>
       <string id="acc_play">play</string>
-      <string id="transcript_chk">Notes</string>
-      <string id="acc_next">next</string>
-      <string id="next">NEXT</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="outline">Menu</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1319,8 +1319,8 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="4esZ4jdzaHi.266" displaytext="Brain Teaser" expand="true" type="slide" />
-        <slidelink slideid="_player.5vu0Ln5EQHa2.60Z1DoyJcUo" displaytext="Brain Teaser Answers" expand="false" type="slide">
+        <slidelink slideid="4p84zblL1oz.266" displaytext="Brain Teaser" expand="true" type="slide" />
+        <slidelink slideid="_player.5vu0Ln5EQHa2.60Z1DoyJcUo" displaytext="Brain Teaser 1" expand="false" type="slide">
           <links>
             <slidelink slideid="5vu0Ln5EQHa2.60Z1DoyJcUo.6MQPiqw1eLW" displaytext="Click next to display the answers." expand="false" type="action" />
             <slidelink slideid="5vu0Ln5EQHa2.60Z1DoyJcUo.5VBXkfitLTJ" displaytext="" expand="false" type="action" />
@@ -1334,74 +1334,68 @@
             <slidelink slideid="5vu0Ln5EQHa2.60Z1DoyJcUo.6pF1zHMyG94" displaytext="" expand="false" type="action" />
           </links>
         </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.256" displaytext="FERPA" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.311" displaytext="Module 1: What is FERPA?" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.303" displaytext="Module Objectives" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.317" displaytext="A Few Things..." expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.276" displaytext="FERPA Basics" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.272" displaytext="Educational Records" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.273" displaytext="Not Educational Records" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.274" displaytext="Students Rights" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.268" displaytext="Knowledge Check!" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.256" displaytext="FERPA" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.311" displaytext="Module 1: What is FERPA?" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.303" displaytext="Module Objectives" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.317" displaytext="A Few Things..." expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.276" displaytext="FERPA Basics" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.272" displaytext="Educational Records" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.273" displaytext="Not an Education Record" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.274" displaytext="Students Rights" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.268" displaytext="Knowledge Check!" expand="true" type="slide" />
         <slidelink slideid="_player.5fPcS9Raisn12.697gzq6iBFr12" displaytext="Knowledge Check 1" expand="false" type="slide">
           <links>
             <slidedrawref drawid="5fPcS9Raisn12.697gzq6iBFr12" />
           </links>
         </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.275" displaytext="Directory Information" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.277" displaytext="Examples of Directory Information" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.278" displaytext="Knowledge Check!" expand="true" type="slide" />
-        <slidelink slideid="_player.61u2SZ81LMz16.6r4hIMOPONB16" displaytext="Knowledge Check 2" expand="false" type="slide">
+        <slidelink slideid="4p84zblL1oz.275" displaytext="Directory Information" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.277" displaytext="Examples of Directory Information" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.283" displaytext="Module 2: Student Information Release" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.304" displaytext="Module Objectives" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.284" displaytext="Student Information Release (SIR)" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.318" displaytext="Student Information Release Overview" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.291" displaytext="Academic, Account, and Financial Aid Information" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.288" displaytext="Knowledge Check!" expand="true" type="slide" />
+        <slidelink slideid="_player.6L4MlrutwWt21.6bwPhoRC6pw21" displaytext="Knowledge Check 2" expand="false" type="slide">
           <links>
-            <slidedrawref drawid="61u2SZ81LMz16.6r4hIMOPONB16" />
+            <slidedrawref drawid="6L4MlrutwWt21.6bwPhoRC6pw21" />
           </links>
         </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.283" displaytext="Module 2: Student Information Release" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.304" displaytext="Module Objectives" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.284" displaytext="Student Information Release (SIR)" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.318" displaytext="Student Information Release Overview" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.291" displaytext="Academic, Account, and Financial Aid Information" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.288" displaytext="Knowledge Check!" expand="true" type="slide" />
-        <slidelink slideid="_player.6L4MlrutwWt23.6bwPhoRC6pw23" displaytext="Knowledge Check 3" expand="false" type="slide">
+        <slidelink slideid="4p84zblL1oz.298" displaytext="Withhold Directory Information" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.319" displaytext="Withhold Directory Information Wiki" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.287" displaytext="Module 3: Identification Requirements" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.308" displaytext="Email Identification" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.302" displaytext="Email Guidelines" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.292" displaytext="Releasable by Phone/Email?" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.293" displaytext="Practice" expand="true" type="slide" />
+        <slidelink slideid="_player.6WlcRijdbXG29.6IhYZdm1hd629" displaytext="Knowledge Check 3" expand="false" type="slide">
           <links>
-            <slidedrawref drawid="6L4MlrutwWt23.6bwPhoRC6pw23" />
+            <slidedrawref drawid="6WlcRijdbXG29.6IhYZdm1hd629" />
           </links>
         </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.298" displaytext="Withhold Directory Information" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.319" displaytext="Withhold Directory Information Wiki" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.287" displaytext="Module 3: Identification Requirements" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.308" displaytext="Email Identification" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.302" displaytext="Email Guidelines" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.292" displaytext="Releasable by Phone/Email?" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.293" displaytext="Practice" expand="true" type="slide" />
-        <slidelink slideid="_player.6WlcRijdbXG31.6IhYZdm1hd631" displaytext="Knowledge Check 4" expand="false" type="slide">
+        <slidelink slideid="4p84zblL1oz.296" displaytext="Module 4: Customer Service Scripts and Scenarios" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.306" displaytext="Module Objectives" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.258" displaytext="What's the Procedure?" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.321" displaytext="Directory Restrictions Wiki" expand="true" type="slide" />
+        <slidelink slideid="_player.6DK64EOy2bN34.6Lx4dAwrbrF" displaytext="Engagement 1" expand="false" type="slide">
           <links>
-            <slidedrawref drawid="6WlcRijdbXG31.6IhYZdm1hd631" />
+            <slidelink slideid="6DK64EOy2bN34.6Lx4dAwrbrF.6Zz3DpAdVTi" displaytext="A mom of an enrolled student contacts Buckeye Link. She has questions about her son’s account, but she is not listed on the Student Information Release. " expand="false" type="action" />
+            <slidelink slideid="6DK64EOy2bN34.6Lx4dAwrbrF.5iqVt28ge4z" displaytext="Hello, I want to mail a check to pay for the Autumn 2020 semester for my son. What is the balance on his account?" expand="false" type="action" />
+            <slidelink slideid="6DK64EOy2bN34.6Lx4dAwrbrF.5ursTzGIksR" displaytext="After reviewing your son’s account, I found that he has not listed you on his Student Information Release. While I am unable to share with you any balance that may be due, I will provide you with information on how students can find their Statement of Account online. Additionally, I will email your student to provide information on any balance that may be due. " expand="false" type="action" />
+            <slidelink slideid="6DK64EOy2bN34.6Lx4dAwrbrF.675T7YzKrve" displaytext="Okay, that sounds great. I will make sure I am added to the release before I contact you the next time. Thanks! " expand="false" type="action" />
+            <slidelink slideid="6DK64EOy2bN34.6Lx4dAwrbrF.6o4JIzjMEx4" displaytext="When individuals are not authorized for information, there are a few things we can say to either address the unauthorized request or assist in general terms. Whenever possible, do your best to answer the question in general terms without providing information specific to the student. &#xA;&#xA;In addition to providing general information, our service expectation is that you follow up with the student to provide them with the requested account information. In the email you should provide instructions on completing the Student Information Release. To make this process easier, there is an Email Template in Salesforce for you to use. " expand="false" type="action" />
           </links>
         </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.296" displaytext="Module 4: Customer Service Scripts and Scenarios" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.306" displaytext="Module Objectives" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.258" displaytext="What's the Procedure?" expand="true" type="slide" />
-        <slidelink slideid="4esZ4jdzaHi.321" displaytext="Directory Restrictions Wiki" expand="true" type="slide" />
-        <slidelink slideid="_player.6DK64EOy2bN36.6Lx4dAwrbrF" displaytext="Engagement 1" expand="false" type="slide">
-          <links>
-            <slidelink slideid="6DK64EOy2bN36.6Lx4dAwrbrF.6Zz3DpAdVTi" displaytext="A mom of an enrolled student contacts Buckeye Link. She has questions about her son’s account, but she is not listed on the Student Information Release. " expand="false" type="action" />
-            <slidelink slideid="6DK64EOy2bN36.6Lx4dAwrbrF.5iqVt28ge4z" displaytext="Hello, I want to mail a check to pay for the Autumn 2020 semester for my son. What is the balance on his account?" expand="false" type="action" />
-            <slidelink slideid="6DK64EOy2bN36.6Lx4dAwrbrF.5ursTzGIksR" displaytext="After reviewing your son’s account, I found that he has not listed you on his Student Information Release. While I am unable to share with you any balance that may be due, I will provide you with information on how students can find their Statement of Account online. Additionally, I will email your student to provide information on any balance that may be due. " expand="false" type="action" />
-            <slidelink slideid="6DK64EOy2bN36.6Lx4dAwrbrF.675T7YzKrve" displaytext="Okay, that sounds great. I will make sure I am added to the release before I contact you the next time. Thanks! " expand="false" type="action" />
-            <slidelink slideid="6DK64EOy2bN36.6Lx4dAwrbrF.6o4JIzjMEx4" displaytext="When individuals are not authorized for information, there are a few things we can say to either address the unauthorized request or assist in general terms. Whenever possible, do your best to answer the question in general terms without providing information specific to the student. &#xA;&#xA;In addition to providing general information, our service expectation is that you follow up with the student to provide them with the requested account information. In the email you should provide instructions on completing the Student Information Release. To make this process easier, there is an Email Template in Salesforce for you to use. " expand="false" type="action" />
-          </links>
-        </slidelink>
-        <slidelink slideid="4esZ4jdzaHi.322" displaytext="Thanks!" expand="true" type="slide" />
+        <slidelink slideid="4p84zblL1oz.322" displaytext="Thanks!" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
+      <resource url="presentation_content/external_files/1. FERPA Matrix 2.0.pdf" image="presentation_content/6PYcje40blz.png" title="FERPA Matrix" />
       <resource url="https://sharepoint.esue.ohio-state.edu/adminservices/scsc/SCSC wiki/FERPA.aspx" image="presentation_content/url.png" title="FERPA Wiki" />
       <resource url="https://sharepoint.esue.ohio-state.edu/adminservices/scsc/SCSC wiki/FERPA - Mode of Communication.aspx" image="presentation_content/url.png" title="Mode of Communication Wiki" />
       <resource url="https://sharepoint.esue.ohio-state.edu/adminservices/scsc/SCSC wiki/FERPA - Directory Restriction.aspx" image="presentation_content/url.png" title="Directory Restriction Wiki" />
-      <resource url="presentation_content/external_files/1. FERPA Matrix 2.0.pdf" image="presentation_content/6oNFYuXBA68.png" title="FERPA Matrix" />
     </resources>
   </resource_data>
   <transcript_data />
