@@ -11,7 +11,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Freshman Admission Overview" />
+              <option name="title_text" value="Freshman Admissions Overview" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1129,7 +1129,7 @@
       <links>
         <slidelink slideid="5bA3neMdl6X.256" displaytext="Freshman Admission Overview" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.266" displaytext="Agenda" expand="true" type="slide" />
-        <slidelink slideid="5bA3neMdl6X.337" displaytext="2 Types of Freshman Applicants" expand="true" type="slide" />
+        <slidelink slideid="5bA3neMdl6X.337" displaytext="Freshman Admissions Worksheet" expand="true" type="slide" />
         <slidelink slideid="5bA3neMdl6X.291" displaytext="2 Types of Freshman Applicants" expand="true" type="slide" />
         <slidelink slideid="_player.6f2e9QwYWfc5.6Rrm5GxUd8E" displaytext="Application Requirements" expand="false" type="slide">
           <links>
@@ -1179,7 +1179,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="presentation_content/external_files/Freshman Admissions Worksheet.pdf" image="presentation_content/5fuEJt52533.png" title="Freshman Admissions Worksheet" />
+      <resource url="presentation_content/external_files/Freshman Admissions Worksheet.pdf" image="presentation_content/6cFEgeRYtnE.png" title="Freshman Admissions Worksheet" />
     </resources>
   </resource_data>
   <transcript_data />
