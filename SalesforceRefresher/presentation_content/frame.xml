@@ -1119,11 +1119,11 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="presentation_content/external_files/Salesforce Training Worksheet.pdf" image="presentation_content/6Z5UHW5EuHf.png" title="Salesforce Training Worksheet" />
-      <resource url="presentation_content/external_files/BL Email Contact Flow.pdf" image="presentation_content/6KhOcJRiMs9.png" title="BL Email Contact Flow" />
-      <resource url="presentation_content/external_files/BL Phone Contact Flow.pdf" image="presentation_content/5cXjjw4gr6j.png" title="BL Phone Contact Flow" />
-      <resource url="presentation_content/external_files/Salesforce Job Aid - Contact Navigation.pdf" image="presentation_content/6jOjibOgWXm.png" title="Salesforce Job Aid - Contact Navigation" />
-      <resource url="presentation_content/external_files/Create and Edit Quick Text.pdf" image="presentation_content/5vTWeFqppgI.png" title="Create and Edit Quick Text" />
+      <resource url="presentation_content/external_files/Salesforce Training Worksheet.pdf" image="presentation_content/6K1Od96bdt3.png" title="Salesforce Training Worksheet" />
+      <resource url="presentation_content/external_files/BL Email Contact Flow.pdf" image="presentation_content/6mSbYrI2BpB.png" title="BL Email Contact Flow" />
+      <resource url="presentation_content/external_files/BL Phone Contact Flow.pdf" image="presentation_content/5gCgPXsIn7R.png" title="BL Phone Contact Flow" />
+      <resource url="presentation_content/external_files/Salesforce Job Aid - Contact Navigation.pdf" image="presentation_content/6S9coYonrPh.png" title="Salesforce Job Aid - Contact Navigation" />
+      <resource url="presentation_content/external_files/Create and Edit Quick Text.pdf" image="presentation_content/5lyvO0kdjCp.png" title="Create and Edit Quick Text" />
     </resources>
   </resource_data>
   <transcript_data />
